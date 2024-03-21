@@ -6,4 +6,4 @@ var multiply = function(num1, num2) {
     x = num1 * num2;
     return x.toString();
 };
-console.log(multiply("123456789","987654321"));
+console.log(multiply("1234.56789","987654321"));
