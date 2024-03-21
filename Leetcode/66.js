@@ -15,7 +15,9 @@ for(let i = digits.leangth-1; i>=0; i--){
     }
 }
 digits.unshift(1)
-return digits
+return digits;
 };
+
+console.log([9]);
 
 
